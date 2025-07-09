@@ -14,7 +14,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "false",
-        "APP_URL": "https://ralflatihanbackend1.com",
+        "APP_URL": "https://latihanbackend1.vercel.app",
         "APP_KEY": "base64:RvO8AqQBEES0b6qfTayUbOvS28iHn5B5BOrOeWpFWDM=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
