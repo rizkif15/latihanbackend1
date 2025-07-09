@@ -30,6 +30,7 @@
         "DB_PORT": "5432",
         "DB_DATABASE": "postgres",
         "DB_USERNAME": "postgres.uvvmcyjvvihlmuvdshir",
-        "DB_PASSWORD": "Gorengan_1503"
+        "DB_PASSWORD": "Gorengan_1503",
+        "SESSION_SECURE_COOKIE": "true"
     }
 }
